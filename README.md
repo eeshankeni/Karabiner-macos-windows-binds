@@ -1,4 +1,4 @@
-Windows esque keybinds for Macos
+## Windows esque keybinds for Macos
 
 Step 1. Terminal "open .config"
 
